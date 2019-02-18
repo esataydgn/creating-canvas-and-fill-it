@@ -1,4 +1,4 @@
-# Springer Nature Code Challenge
+# Code Challenge
 
 Below is a coding challenge that we would like you to solve. Please read through the description carefully and implement a solution for it. We don't want you to over-engineer the solution but be prepared to extend the functionality in the next step of the interview process. Finally, we ask you to submit a solution that you'd be happy to go live with and works "out of the box”.
 
